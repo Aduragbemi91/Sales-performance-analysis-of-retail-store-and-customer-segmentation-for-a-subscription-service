@@ -5,4 +5,4 @@ Tools Used
 * Power BI
 
 Data Source
-* The data is gotten from LITA Capstone dataset
+* The data used is from LITA Capstone dataset
